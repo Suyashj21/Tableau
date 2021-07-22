@@ -1,6 +1,6 @@
 # Tableau
 
-## IMportant Links:
+## Important Links:
 https://www.thedataschool.com.au/anders-wold/drill-down-bar-chart-using-parameter-actions/
 
 https://rosariogaunag.wordpress.com/2019/10/29/drill-down-up-with-parameter-actions/
